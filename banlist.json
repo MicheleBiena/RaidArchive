@@ -5,12 +5,5 @@
         "log10p": -4.0,
         "name": "Caudex",
         "notes": ""
-    },
-    {
-        "enabled": true,
-        "language": "eng",
-        "log10p": -2.5,
-        "name": "Caccino",
-        "notes": ""
     }
 ]
